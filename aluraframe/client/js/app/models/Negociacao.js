@@ -16,7 +16,12 @@ class Negociacao {
     inverteOrdem() {
         
         this._negociacoes.reverse();
-    }    
+    }   
+
+    ehIgual(outraNegociacao) {
+
+        return JSON.stringify(this) == JSON.stringify(outraNegociacao);
+    } 
     
     get volume() {
         
