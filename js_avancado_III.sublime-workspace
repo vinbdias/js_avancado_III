@@ -1,0 +1,633 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"negoc",
+				"negociacoes"
+			],
+			[
+				"Negociaca",
+				"Negociacao"
+			],
+			[
+				"nego",
+				"negociacoes"
+			],
+			[
+				"Neg",
+				"Negociacao\t(NegociacaoService.js)"
+			],
+			[
+				"op",
+				"openRequest"
+			],
+			[
+				"negoci",
+				"negociacao"
+			],
+			[
+				"ne",
+				"negociacao"
+			],
+			[
+				"Negoc",
+				"NegociacaoService"
+			],
+			[
+				"in",
+				"inverteOrdem\t(ListaNegociacoes.js)"
+			],
+			[
+				"v",
+				"volume"
+			],
+			[
+				"negociacao",
+				"negociacaoController\t(index.html)"
+			],
+			[
+				"ob",
+				"obterNegociacoes\t(NegociacaoService.js)"
+			],
+			[
+				"array",
+				"arrayAchatado"
+			],
+			[
+				"Negociacao",
+				"NegociacaoService\t(NegociacaoService.js)"
+			],
+			[
+				"ope",
+				"open(method, url)"
+			],
+			[
+				"Ne",
+				"Negociacao"
+			],
+			[
+				"Mens",
+				"Mensagem.js\t(index.html)"
+			],
+			[
+				"_mensa",
+				"_mensagemView"
+			],
+			[
+				"Proxy",
+				"ProxyFactory"
+			],
+			[
+				"Prox",
+				"ProxyFactory\t(ProxyFactory.js)"
+			],
+			[
+				"Error",
+				"Error(message)"
+			],
+			[
+				"M",
+				"MensagemView\t(NegociacaoController.js)"
+			],
+			[
+				"Mensagem",
+				"MensagemView\t(MensagemView.js)"
+			],
+			[
+				"inner",
+				"innerHTML\t(NegociacoesView.js)"
+			],
+			[
+				"get",
+				"getTime"
+			],
+			[
+				"va",
+				"valor\t(index.html)"
+			],
+			[
+				"text",
+				"textContent"
+			],
+			[
+				"numer",
+				"numero_tentativas"
+			],
+			[
+				"nume",
+				"numero_tentativas"
+			],
+			[
+				"up",
+				"update"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "aluraframe/client/js/app/services/NegociacaoService.js",
+			"settings":
+			{
+				"buffer_size": 2593,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "aluraframe/client/js/app/controllers/NegociacaoController.js",
+			"settings":
+			{
+				"buffer_size": 1828,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "aluraframe/client/aprendendo_indexeddb.html",
+			"settings":
+			{
+				"buffer_size": 1936,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "aluraframe/client/index.html",
+			"settings":
+			{
+				"buffer_size": 2362,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 137.0,
+		"last_filter": "Package Control: insta",
+		"selected_items":
+		[
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control:install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: In",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"rails",
+				"Set Syntax: Ruby on Rails"
+			]
+		],
+		"width": 540.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"Package Control: Install Package"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/alura/js_avancado_III",
+		"/C/alura/js_avancado_III/aluraframe",
+		"/C/alura/js_avancado_III/aluraframe/client",
+		"/C/alura/js_avancado_III/aluraframe/client/js",
+		"/C/alura/js_avancado_III/aluraframe/client/js/app"
+	],
+	"file_history":
+	[
+		"/C/wamp64/www/simulador_calc_rra/visualiza_vrl_precatorio_jud.asp",
+		"/C/alura/js_avancado_II/aluraframe/client/js/app/services/NegociacaoService.js",
+		"/C/alura/js_avancado_II/aluraframe/client/js/app/controllers/NegociacaoController.js",
+		"/C/Users/Vinicius/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/Side Bar.sublime-menu",
+		"/C/alura/js_avancado_III/aluraframe/client/aprendendo_indexeddb.html",
+		"/C/alura/js_avancado_II/aluraframe/client/index.html",
+		"/C/alura/js_avancado_II/aluraframe/client/js/app/views/NegociacoesView.js",
+		"/C/alura/js_avancado_II/aluraframe/client/js/app/models/ListaNegociacoes.js",
+		"/C/alura/js_avancado_II/aluraframe/client/js/app/services/HttpService.js",
+		"/C/alura/js_avancado_II/aluraframe/client/js/app/helpers/DateHelper.js",
+		"/C/alura/js_avancado_II/aluraframe/server/app/api/index.js",
+		"/C/alura/js_avancado_II/aluraframe/client/js/app/models/Mensagem.js",
+		"/C/alura/js_avancado_II/aluraframe/client/js/app/views/View.js",
+		"/C/alura/js_avancado_II/aluraframe/client/js/app/services/ProxyFactory.js",
+		"/C/alura/js_avancado_II/aluraframe/client/js/app/helpers/Bind.js",
+		"/C/alura/js_avancado_II/aluraframe/client/js/app/models/Negociacao.js",
+		"/C/alura/js_avancado_I/javascript-avancado-i-aula1/aluraframe/client/js/app/controllers/NegociacaoController.js",
+		"/C/xampp/php/php.ini",
+		"/C/Users/VinBDias/AppData/Roaming/Sublime Text 3/Packages/Laravel 5 Artisan/Laravel 5 Artisan.sublime-settings",
+		"/C/alura/js_avancado_I/javascript-avancado-i-aula1/aluraframe/client/js/app/models/Mensagem.js",
+		"/C/alura/js_avancado_I/javascript-avancado-i-aula1/aluraframe/client/js/app/views/NegociacoesView.js",
+		"/C/alura/js_avancado_I/javascript-avancado-i-aula1/aluraframe/client/js/app/views/View.js",
+		"/C/alura/js_avancado_I/javascript-avancado-i-aula1/aluraframe/client/js/app/views/MensagemView.js",
+		"/C/alura/js_avancado_I/javascript-avancado-i-aula1/aluraframe/client/js/app/models/Negociacao.js",
+		"/C/alura/js_avancado_I/javascript-avancado-i-aula1/aluraframe/client/js/app/helpers/DateHelper.js",
+		"/C/alura/js_avancado_I/javascript-avancado-i-aula1/aluraframe/client/index.html",
+		"/C/Users/VinBDias/AppData/Roaming/Sublime Text 3/Packages/User/TernJS.sublime-settings",
+		"/C/alura/js_avancado_I/package-lock.json",
+		"/C/alura/js_avancado_I/javascript-avancado-i-aula1/aluraframe/client/js/index.js",
+		"/C/alura/js_avancado_I/javascript-avancado-i-aula1/aluraframe/client/js/models/Negociacao.js",
+		"/C/alura/js_avancado_I/js/index.js",
+		"/C/alura/react_parte_1/cdc-admin/src/App.js",
+		"/C/alura/react_parte_1/cdc-admin/src/index.js",
+		"/C/alura/react_parte_1/cdc-admin/public/index.html",
+		"/C/bash_on_ubuntu_on_windows/curso_ruby_alura/rascunho_exercicios.rb",
+		"/C/bash_on_ubuntu_on_windows/curso_ruby_alura/maior_ou_menor.rb",
+		"/C/r_on_r_on_bash_on_ubuntu_on_windows/colchonet/lib/tasks/migrar_senhas.rake",
+		"/C/r_on_r_on_bash_on_ubuntu_on_windows/colchonet/db/migrate/20180402001204_add_password_digest_to_users.rb",
+		"/C/r_on_r_on_bash_on_ubuntu_on_windows/colchonet/app/models/user.rb",
+		"/C/r_on_r_on_bash_on_ubuntu_on_windows/colchonet/Rakefile",
+		"/C/r_on_r_on_bash_on_ubuntu_on_windows/colchonet/app/views/users/edit.html.erb",
+		"/C/r_on_r_on_bash_on_ubuntu_on_windows/colchonet/app/views/users/new.html.erb",
+		"/C/r_on_r_on_bash_on_ubuntu_on_windows/colchonet/app/views/users/show.html.erb",
+		"/C/r_on_r_on_bash_on_ubuntu_on_windows/colchonet/app/views/users/_form.html.erb",
+		"/C/r_on_r_on_bash_on_ubuntu_on_windows/colchonet/config/routes.rb",
+		"/C/r_on_r_on_bash_on_ubuntu_on_windows/colchonet/app/views/home/index.html.erb",
+		"/C/r_on_r_on_bash_on_ubuntu_on_windows/colchonet/app/controllers/home_controller.rb",
+		"/C/r_on_r_on_bash_on_ubuntu_on_windows/colchonet/app/controllers/users_controller.rb",
+		"/C/r_on_r_on_bash_on_ubuntu_on_windows/curso_ruby_alura/maior_ou_menor.rb",
+		"/C/r_on_r_on_bash_on_ubuntu_on_windows/colchonet/app/controllers/rooms_controller.rb",
+		"/C/r_on_r_on_bash_on_ubuntu_on_windows/colchonet/maior_ou_menor.rb",
+		"/C/Users/VinBDias/AppData/Roaming/Sublime Text 3/Packages/User/AdvancedNewFile.sublime-settings",
+		"/C/r_on_r_on_bash_on_ubuntu_on_windows/colchonet/guests_controller",
+		"/C/r_on_r_on_bash_on_ubuntu_on_windows/colchonet/app/controllers/guests_controller.rb",
+		"/C/Users/VinBDias/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"                    \n",
+			");            \t           ",
+			"view",
+			"crypt"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "aluraframe/client/js/app/services/NegociacaoService.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2593,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.14.region_keys":
+							[
+							],
+							"SL.33.region_keys":
+							[
+								"SL.jshint.Highlights.|source.js meta.function-call.method.js support.function.dom.js|1316",
+								"SL.jshint.Gutter.source.js meta.function-call.method.js support.function.dom.js.Packages/SublimeLinter/gutter-themes/Default/pointer.png",
+								"sublime_linter.protected_regions"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "aluraframe/client/js/app/controllers/NegociacaoController.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1828,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								528,
+								528
+							]
+						],
+						"settings":
+						{
+							"SL.15.region_keys":
+							[
+							],
+							"SL.37.region_keys":
+							[
+								"SL.jshint.Highlights.|source.js meta.function-call.method.js support.function.dom.js|32",
+								"sublime_linter.protected_regions",
+								"SL.jshint.Gutter.source.js meta.function-call.method.js support.function.dom.js.Packages/SublimeLinter/gutter-themes/Default/pointer.png",
+								"SL.jshint.Highlights.|source.js meta.function-call.method.js support.function.dom.js|1316"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "aluraframe/client/aprendendo_indexeddb.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1936,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1130,
+								1130
+							]
+						],
+						"settings":
+						{
+							"SL.16.region_keys":
+							[
+								"SL.jshint.Highlights.|65de82e60e2237f0fbd776e7f21a85ff8c68259a9b761bd2781f560ad277874e|source.js meta.function-call.method.js support.function.dom.js|32",
+								"SL.jshint.Highlights.|5cdde50a07f141837cb261de91e0a84a5075bb009e2e36bdf783391845a64607|source.js meta.function-call.method.js support.function.dom.js|1316",
+								"SL.jshint.Highlights.|7a8c69d26e34e10faf396be7e5ff0e2083ea205434ea2c4c1271e4dcd0dca846|source.js meta.function-call.method.js support.function.dom.js|1316",
+								"SL.jshint.Highlights.|bec04441f20eb201c068c7ec85b4ab7f9eae508ec66a093322e48c6d017741d9|source.js meta.function-call.method.js support.function.dom.js|1316",
+								"SL.jshint.Highlights.|664248358a3d76e875a39068cbbfba5641f795ca4a72e7cf7341c541e67d4e2f|source.js meta.function-call.method.js support.function.dom.js|1316",
+								"SL.jshint.Highlights.|185f361796b08afa705294d0623cca72b23931d4b61764864d9551cd00eed4ee|source.js meta.function-call.method.js support.function.dom.js|1316",
+								"SL.jshint.Highlights.|55e9cf92ba39c377a8cf754c298d76f3893527a170d0d4d62a790f2d1581b1e3|source.js meta.function-call.method.js support.function.dom.js|1316",
+								"SL.jshint.Highlights.|5bef2f62785db7301e790f7050d696180ef1421d340cb141625604360dda183d|source.js meta.function-call.method.js support.function.dom.js|32",
+								"SL.jshint.Highlights.|a97aa4511c36c7cc6dfe372c3b97027465c7d9ab09e184f566544033833e8005|source.js meta.function-call.method.js support.function.dom.js|32",
+								"SL.jshint.Highlights.|d7c3a4c3b7ffb5347a9b88ae17b4b54544ed5d6daf8646eb9f0b5a2c0e8c957b|source.js meta.function-call.method.js support.function.dom.js|32",
+								"SL.jshint.Highlights.|888cc515d481cd4e5fd97d5475d8dbf84148b1dd492169cc413bea598c8b7378|source.js meta.function-call.method.js support.function.dom.js|32",
+								"SL.jshint.Highlights.|82efe75096a0ee084909b966dbc8c19e7616f893cba723f2a3e6b945619634a4|source.js meta.function-call.method.js support.function.dom.js|1316",
+								"SL.jshint.Highlights.|85850897f6277f3b24e31a27a0ee47640f8b92db7d1691248caf9d2556899483|source.js meta.function-call.method.js support.function.dom.js|1316",
+								"SL.jshint.Highlights.|3030a0342b75e2fad389faf792281999bf25c1be86d0f210a08dc45979bff492|source.js meta.function-call.method.js support.function.dom.js|32",
+								"SL.jshint.Highlights.|3fdba2119a7a6e857da4a933573bb1745d821a7112b13951d5c13d6c5692233d|source.js meta.function-call.method.js support.function.dom.js|32",
+								"sublime_linter.protected_regions",
+								"SL.jshint.Highlights.|17bdc0a4f2044cf59e948bb00b7fea913aae7b58407ba95773add9b9e4a51856|source.js meta.function-call.method.js support.function.dom.js|1316",
+								"SL.jshint.Highlights.|07939bb2da6ebfed9e5a5ac725afe21b15bc9d0743d370a85c1945d52b1ec2f0|source.js meta.function-call.method.js support.function.dom.js|32",
+								"SL.jshint.Highlights.|b79d25e7869655a1b7642843cfe153a646fb6defd4f50c0b2118b77cb9e9bbf5|source.js meta.function-call.method.js support.function.dom.js|32",
+								"SL.jshint.Highlights.|6631efb6609df3f94f1de591fdd5036f4abb8be5f1b08b6e1835456366f7ab6f|source.js meta.function-call.method.js support.function.dom.js|32",
+								"SL.jshint.Highlights.|b052db953ba4470b8a3d4efe9c9e1c40759dbfca6eed0413e6ea0514d8171cf8|source.js meta.function-call.method.js support.function.dom.js|1316",
+								"SL.jshint.Gutter.|source.js meta.function-call.method.js support.function.dom.js|Packages/SublimeLinter/gutter-themes/Default/pointer.png"
+							],
+							"SL.23.region_keys":
+							[
+								"SL.jshint.Highlights.|664248358a3d76e875a39068cbbfba5641f795ca4a72e7cf7341c541e67d4e2f|source.js meta.function-call.method.js support.function.dom.js|1316",
+								"SL.jshint.Highlights.|b1e4bd57260a290489acda4a7453b82046046949e5e54685ca3605ff86c0a91d|source.js meta.function-call.method.js support.function.dom.js|1316",
+								"SL.jshint.Highlights.|aa18222f769a2640f4e57dd900ffcf18e180a7b6d83bdd70337197821f559510|source.js meta.function-call.method.js support.function.dom.js|32",
+								"sublime_linter.protected_regions",
+								"SL.jshint.Highlights.|a97aa4511c36c7cc6dfe372c3b97027465c7d9ab09e184f566544033833e8005|source.js meta.function-call.method.js support.function.dom.js|32",
+								"SL.jshint.Highlights.|5a5a2e1f1fc639a9cfe0ac41ffae227a16d0cbad4eb0565b4c5568396d1b036c|source.js meta.function-call.method.js support.function.dom.js|32",
+								"SL.jshint.Highlights.|5400ce8f945fa2aee3646ed433850d20add5b08fc13778d7d633fa405c0328ff|source.js meta.function-call.method.js support.function.dom.js|1316",
+								"SL.jshint.Highlights.|78eb365f5b58dcb4d60b6b4725361041da313d5d8d5bb5fad58a6e643dee03d2|source.js meta.function-call.method.js support.function.dom.js|1316",
+								"SL.jshint.Highlights.|f56e01c129167c4fe2e35a322f2fa30d8e62b5593b394e54de8fde23e9e6c687|source.js meta.function-call.method.js support.function.dom.js|32",
+								"SL.jshint.Highlights.|a05270e64cdebed7992320bace9aae1a39e0a594af64bb382d4fcc58303e3cb6|source.js meta.function-call.method.js support.function.dom.js|1316",
+								"SL.jshint.Highlights.|a5ded4fba608d84bc0393ec77d162ae90231cd270f702cc00dacb9fc2c16dd2e|source.js meta.function-call.method.js support.function.dom.js|32",
+								"SL.jshint.Gutter.|source.js meta.function-call.method.js support.function.dom.js|Packages/SublimeLinter/gutter-themes/Default/pointer.png",
+								"SL.jshint.Highlights.|5ab9f60cdc35123362ccae19f3c3c9e60ff6bcebdc5c731e45f61a514d96d9f3|source.js meta.function-call.method.js support.function.dom.js|32"
+							],
+							"auto_complete": false,
+							"default_extension": "html",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 405.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "aluraframe/client/index.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2362,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.19.region_keys":
+							[
+								"SL.jshint.Gutter.|source.js meta.function-call.method.js support.function.dom.js|Packages/SublimeLinter/gutter-themes/Default/pointer.png",
+								"SL.jshint.Highlights.|124ae47c750ed3a94a76bc20e4f94a450af80279921f17c94ce6e39d8b7afce4|source.js meta.function-call.method.js support.function.dom.js|1316",
+								"sublime_linter.protected_regions"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "js_avancado_III.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 252.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

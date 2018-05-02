@@ -7,6 +7,16 @@ class Negociacao {
         this._valor = valor;
         Object.freeze(this);
     }
+
+    ordena(criterio) {
+
+        this._negociacoes.sort(criterio);
+    }
+
+    inverteOrdem() {
+        
+        this._negociacoes.reverse();
+    }    
     
     get volume() {
         
