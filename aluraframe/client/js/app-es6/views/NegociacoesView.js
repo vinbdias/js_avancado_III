@@ -1,3 +1,5 @@
+import {View} from './View';
+
 class NegociacoesView extends View {
     
     constructor(elemento) {
@@ -11,10 +13,10 @@ class NegociacoesView extends View {
         <table class="table table-hover table-bordered">
             <thead>
                 <tr>
-                    <th onclick="negociacaoController.ordena('data')">DATA</th>
-                    <th onclick="negociacaoController.ordena('quantidade')">QUANTIDADE</th>
-                    <th onclick="negociacaoController.ordena('valor')">VALOR</th>
-                    <th onclick="negociacaoController.ordena('volume')">VOLUME</th>
+                    <th id="cabecalho-data">DATA</th>
+                    <th id="cabecalho-quantidade">QUANTIDADE</th>
+                    <th id="cabecalho-valor">VALOR</th>
+                    <th id="cabecalho-volume">VOLUME</th>
                 </tr>
             </thead>
         
